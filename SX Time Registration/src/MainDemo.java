@@ -3,6 +3,6 @@
  */
 public class MainDemo {
     public static void main(String[] args) {
-        System.out.println("Dit is het oefen project voor de Java groep");
+        System.out.println("Dit is het oefen project voor de java groep");
     }
 }
